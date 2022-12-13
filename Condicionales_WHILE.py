@@ -79,6 +79,8 @@ while salir == False:
     salir = True # tambien podemos utilizar CONTINUE
 
   else:
-    print("Opcion no valida")·no funciona
+    print("Opcion no valida")
+
+  #Ejercicio funcionando!!
 
 
